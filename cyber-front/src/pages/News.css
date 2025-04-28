@@ -1,0 +1,11 @@
+.News-page{
+    margin-top: 150px;
+    background: url("./news.png") no-repeat top center scroll;
+    background-size: contain;
+    margin-top: -150px; /* Высота шапки */
+    padding-top: 150px; /* Высота шапки */
+}
+
+.News-page-block{
+    margin-top: 200px;
+}

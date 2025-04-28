@@ -1,0 +1,6 @@
+.Home {
+    background: url("./home.png") no-repeat top center scroll;
+    background-size: cover;
+    margin-top: -150px; /* Высота шапки */
+    padding-top: 150px; /* Высота шапки */
+  }

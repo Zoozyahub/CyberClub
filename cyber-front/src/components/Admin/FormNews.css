@@ -1,0 +1,10 @@
+.form-news-container{
+    margin-top: 300px;
+    display: flex;
+    justify-content: center;
+}
+
+.form-news-container form{
+    display: flex;
+    flex-direction: column;
+}

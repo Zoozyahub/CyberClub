@@ -1,0 +1,38 @@
+.Main-Info{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 250px;
+}
+
+.info-about{
+    width: 500px;
+}
+
+.info-head-text{
+    color: #000;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: block; 
+}
+
+.info-about-text{
+    color: #000;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 40px;
+}
+
+.info-achiv-text{
+    color: #000;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 40px;
+}

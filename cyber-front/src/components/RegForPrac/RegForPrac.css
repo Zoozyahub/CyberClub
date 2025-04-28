@@ -1,0 +1,56 @@
+.reg-for-prac-container{
+    margin-top: 90px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.reg-for-prac-container h2{
+    border-bottom: 2px solid black;
+}
+
+.reg-for-prac-container h2 span:first-child{
+    font-size: 30px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.reg-for-prac-container h2 span:last-child{
+    font-size: 30px;
+    font-family: 'Open Sans', sans-serif;
+    color: #302F88;
+}
+
+.schedule{
+    display: flex;
+    gap: 25px;
+}
+
+.schedule span{
+    margin-left: 13px;
+}
+
+.dates{
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.dates span{
+    font-size: 12px;
+    display: flex;
+}
+
+.dates button{
+    width: 100px;
+    height: 40px;
+    margin-left: 15px;
+    background: #008FFE;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.dates button:hover{
+    background: #1578C4;
+}

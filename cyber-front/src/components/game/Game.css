@@ -1,0 +1,30 @@
+.cont{
+    width: 1010px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: start;
+    
+}
+
+.wrapper{
+    margin-bottom: 3%;
+}
+
+.cont img{
+    object-fit:none;
+}
+
+.cont p{
+    text-align: justify;
+    width: 769px;
+
+    color: #000;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 35px;
+}
+
+

@@ -1,0 +1,6 @@
+.admin-container{
+    display: flex;
+    margin: 320px;
+    justify-content: center;
+    gap: 30px;
+}

@@ -1,0 +1,15 @@
+.form-tournament-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 300px;
+}
+
+.form-tournament-container form{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.form-tournament-container form input{
+    height: 20px;
+}

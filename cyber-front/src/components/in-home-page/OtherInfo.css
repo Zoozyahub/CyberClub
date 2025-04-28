@@ -1,0 +1,126 @@
+.oher-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.OtherInfo{
+    display: flex;
+    padding: 50px;
+    margin-top: 150px;
+}
+
+.other-info-about{
+    width: 500px;
+}
+
+.info-for-school{
+    display: flex;
+    flex-direction: column;
+    justify-content: top;
+    align-items: center;
+    width: 40%;
+    margin-right: 100px;
+}
+
+.info-for-student{
+    display: flex;
+    flex-direction: column;
+    justify-content: top;
+    align-items: center;
+    width: 40%;
+    margin-right: 100px;
+}
+
+.other-info-head{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 660px;
+    margin-bottom: 100px;
+}
+
+.other-info-head-text{
+    color: #000;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: block;
+    margin-bottom: 30px; 
+}
+
+.other-info-head-text-blue{
+    color: #131177;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 40px;
+}
+
+.other-info-about-head-school{
+    color: #000;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+}
+
+.info-other-li{
+    color: #000;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 40px;
+    margin-bottom: 7px;
+}
+
+.other-info-blue{
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    margin-top: 50px;
+}
+
+.other-info-blue-text{
+    color: #131177;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 40px;
+    width: 415px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.other-info-about-student{
+    color: #000;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 50px;
+    margin-bottom: 15px;
+    display: block;
+}
+
+.other-info-button{
+    background: #008FFE;
+    box-shadow: 0px 4px 20px 0px rgba(0, 177, 255, 0.61);
+    border: 0;
+    width: 150px;
+    height: 33px;
+    color: #FFF;
+    font-family:'Open Sans', sans-serif;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    cursor: pointer;
+  }

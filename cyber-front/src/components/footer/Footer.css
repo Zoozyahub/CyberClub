@@ -1,0 +1,90 @@
+.footer-container {
+    background-color: #555454;
+    height: 230px;
+    display: flex;
+    align-items: top;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    margin-top: auto;
+    padding: 0;
+    bottom: 0;
+  }
+
+  .in-footer{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+  }
+  
+  .logo-container {
+    margin-left: 300px; /* Адаптивный отступ слева */
+  }
+  
+  .logo {
+    width: 145px;
+  }
+  
+  .contacts {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .contacts-heading {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .underline {
+    position: relative;
+    display: inline-block;
+  }
+
+  .email{
+    margin-top: 10px;
+  }
+  
+  
+  .highlight::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 50%;
+    height: 3px;
+    background-color: #07F;
+  }
+  
+  .social-media {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .social-media-heading {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .social-icons {
+    margin-top: 10px;
+    display: flex;
+  }
+  
+  .social-icon {
+    width: 32px;
+    height: 32px;
+    margin-right: 10px;
+  }
+  
+  .info {
+    margin-left: 0px;
+  }
+  
+  .info-heading {
+    display: block;
+    margin-bottom: 10px;
+  }
+  

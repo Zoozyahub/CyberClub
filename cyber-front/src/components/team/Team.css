@@ -1,0 +1,53 @@
+.team{
+   margin-top: 50px; 
+   width: 60%;
+}
+
+.team-logo{
+    width: 180px;
+    height: 180px;
+}
+
+.player-avatar{
+    width: 156px;
+    height: 156px;
+    display: block;
+}
+
+.team-main-info{
+    display: flex;
+    margin-bottom: 50px;
+    align-items: flex-end;
+}
+
+.all-players{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+.team-name{
+    color: #000;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 10px;
+}
+
+.player-nickname{
+    color: #000;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.player{
+    margin-right: 70px;
+    margin-bottom: 15px;
+}
